@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Intro 
 Basically just a sandbox to play around with Yeoman
 
@@ -30,4 +29,3 @@ Yeoman-vagrant-puppet-sandbox
 =============================
 
 Provisions up a vagrant vm with puppet so I can play with Yeoman
->>>>>>> 99fe1bf50440c8b589f70bcd766948357a21aad7
