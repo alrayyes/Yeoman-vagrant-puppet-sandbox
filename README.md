@@ -1,5 +1,5 @@
 # Intro 
-This project manages a sandbox for [yaoman](url)
+Basically just a sandbox to play around with Yeoman
 
 # Usage
 ```bash
@@ -10,7 +10,7 @@ This project manages a sandbox for [yaoman](url)
 
 # Copyright and license
 
-Copyright [2013] [First Last Name]
+Copyright [2013] [Ryan Kes]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
