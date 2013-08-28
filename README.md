@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intro 
 Basically just a sandbox to play around with Yeoman
 
@@ -24,3 +25,9 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+=======
+Yeoman-vagrant-puppet-sandbox
+=============================
+
+Provisions up a vagrant vm with puppet so I can play with Yeoman
+>>>>>>> 99fe1bf50440c8b589f70bcd766948357a21aad7
